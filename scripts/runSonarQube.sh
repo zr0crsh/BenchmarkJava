@@ -6,6 +6,7 @@
 # - start a scan (takes >= 1 hour on mac)
 # - create a report file
 # - shutdown sonarqube server
+#
 
 source scripts/requireCommand.sh
 
